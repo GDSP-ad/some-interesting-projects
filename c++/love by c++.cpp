@@ -51,5 +51,4 @@ int main()
 	cout << "                         ***" << endl;
 	Sleep(T);
 	cout << "                          *" << endl;
-	return 0;
 }
